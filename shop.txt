@@ -1,4 +1,5 @@
 sdf Project
 Milk
-Fruit
-soup
+Eggs 
+Soup 
+Bread
