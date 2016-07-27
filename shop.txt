@@ -1,4 +1,5 @@
 sdf Project
-Milk
-Fruit
-soup
+SOUP
+MILK 
+BREAD
+RICE
