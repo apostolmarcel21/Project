@@ -1,12 +1,6 @@
 sdf Project
-<<<<<<< HEAD
 SOUP
 MILK 
 BREAD
-RICE
-=======
-Soup 
-Milk 
-Bread
-Eggs
->>>>>>> master
+RICe
+camp nou
