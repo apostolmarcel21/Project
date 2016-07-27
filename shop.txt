@@ -1,5 +1,6 @@
 sdf Project
-Milk
-Eggs 
-Soup 
-Bread
+SOUP
+MILK 
+BREAD
+RICe
+camp nou
